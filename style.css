@@ -1,0 +1,45 @@
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.section-one__links{
+    color: gray;
+}
+.container{
+    margin-top: 10px;
+    text-align: center;
+}
+.card{
+    border: solid black 1px;
+    width: 250px;
+    display: inline-block;
+}
+.card__img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.card__button{
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+}
+.section-two{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+}
+.section-two__tabledata{
+    display: inline-block;
+}
+.section-two__button{
+    width: 400px;
+    background-color: yellow;
+    color: black;
+    display: block;
+    margin: 2px auto;
+}
